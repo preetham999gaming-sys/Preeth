@@ -433,21 +433,21 @@ If your Node version is different, use Node Version Manager (`nvm`) or another N
 Replace the placeholder with your actual GitHub repository URL:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd ASTRA-Vision-Vehicle-Recognition
+git clone https://github.com/preetham999gaming-sys/Preeth.git
+cd ASTRA-Vision-GitHub-Under-25MB.zip
 ```
 
 Example:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ASTRA-Vision-Vehicle-Recognition.git
-cd ASTRA-Vision-Vehicle-Recognition
+git clone https://github.com/preetham999gaming-sys/Preeth.git
+cd ASTRA-Vision-GitHub-Under-25MB.zip
 ```
 
 ### Step 2 — Confirm the branch
 
 ```bash
-git branch
+git main
 ```
 
 Make sure you are on the branch containing the final submission code.
